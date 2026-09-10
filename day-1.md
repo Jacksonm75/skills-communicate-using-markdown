@@ -22,4 +22,4 @@ int main()
 ```bash
 ls -al
 ```
-<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="left">
+<img alt="Cloudy morning" src="https://github.com/Jacksonm75/skills-communicate-using-markdown/blob/start-blog/2025-1-1-22-40-48.png" width="100" align="left">
