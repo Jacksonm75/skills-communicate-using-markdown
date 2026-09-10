@@ -9,3 +9,16 @@
 - [ ] 任务1
 - [x] 任务2
 ## 下午
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+  printf("hello world\n");
+  exit(0);
+}
+```
+```bash
+ls -al
+```
